@@ -1,0 +1,7 @@
+fastapi
+pydantic
+selenium == 3.6.0
+beautifulsoup4
+transformers
+plotly
+uvicorn
